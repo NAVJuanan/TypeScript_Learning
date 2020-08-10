@@ -61,7 +61,35 @@ Programs:
 
 	- string interpolation -> console.log(`The value of the variable "message" of type ${typeof message} is: ${message}`);
 
-	- typeof() -> shows the data type of a value or variable (boolean, number, string, object, undefined, function) 
+	- typeof() -> shows the data type of a value or variable (boolean, number, string, object, function) 
 		https://devdocs.io/javascript/operators/typeof
+
+	- console.log() -> shows a message in the console
+		https://devdocs.io/dom/console/log
+		https://www.w3schools.com/jsref/met_console_log.asp
+
+	- console.info() -> shows a message in the console (with an info icon)
+		https://devdocs.io/dom/console/info
+		https://www.w3schools.com/jsref/met_console_info.asp
+
+	- console.warn() -> shows a warning in the console (with a warning icon)
+		https://devdocs.io/dom/console/warn
+		https://www.w3schools.com/jsref/met_console_warn.asp
+
+	- console.error() -> shows an error in the console (with an error icon)
+		https://devdocs.io/dom/console/error
+		https://www.w3schools.com/jsref/met_console_error.asp
+
+	- window.alert() -> shows a popup message  
+		https://devdocs.io/dom/window/alert
+		https://www.w3schools.com/jsref/met_win_alert.asp
+
+	- window.prompt() -> shows a dialog window with a message and receives an input text  
+		https://devdocs.io/dom/window/prompt
+		https://www.w3schools.com/jsref/met_win_prompt.asp
+
+	- window.confirm() -> shows a confirmation box and receives a boolean result
+		https://devdocs.io/dom/window/confirm
+		https://www.w3schools.com/jsref/met_win_confirm.asp
 
 	- Comments -> /* */ or //

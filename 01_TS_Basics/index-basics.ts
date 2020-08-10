@@ -33,5 +33,22 @@ let message: string;
 message = "Hi, this is a message";
 console.log(`The value of the variable 'message' of type ${typeof message} is: '${message}'`);
 
+
+// dialog window and read input
+let myVar: string | null = prompt("What is your name?");
+console.info(`info: My name is ${myVar}`);
+console.warn(`warning: My name is ${myVar}`);
+console.error(`error: My name is ${myVar}`);
+
+
+// confirm box and alert
+let isCorrect: boolean = confirm(`Is ${myVar} your name?`);
+if (isCorrect) {
+    alert(`Confirmed, ${myVar} is your name`);
+} else {
+    alert(`Confirmed, ${myVar} is NOT your name`);
+}
+
+
 let und: undefined;
 //und = "12";
