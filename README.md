@@ -93,3 +93,49 @@ Programs:
 		https://www.w3schools.com/jsref/met_win_confirm.asp
 
 	- Comments -> /* */ or //
+
+
+
+ - 02. Operators
+
+	- Addition:       a + b
+	- Subtraction:    a - b
+	- Multiplication: a * b
+	- Division:       a / b
+	- Remainder:      a % b
+	- Exponential:    a ** b
+
+	- Increment: ++
+	- Decrement: --
+
+	- Relational: >, >=, <, <=
+
+	- === -> strict equility operator (type + value)
+	- == -> lose equility operator (value)
+	- !== -> strict distinct operator (type + value)
+	- != -> lose distinct operator (value)
+	
+	https://www.w3schools.com/js/js_operators.asp
+	https://www.w3schools.com/jsref/jsref_operators.asp
+
+
+
+ - 03. Loops
+
+	- Ternary operator -> var voteable = (age < 18) ? "Too young":"Old enough";
+		https://www.tutorialsteacher.com/typescript/typescript-if-else
+
+	- if...else
+		https://www.tutorialsteacher.com/typescript/typescript-if-else
+
+	- while
+		https://www.tutorialsteacher.com/typescript/while-loop
+
+	- do...while
+		https://www.tutorialsteacher.com/typescript/while-loop
+
+	- switch
+		https://www.tutorialsteacher.com/typescript/typescript-switch
+
+	- for	
+		https://www.tutorialsteacher.com/typescript/for-loop
