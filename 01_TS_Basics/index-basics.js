@@ -23,6 +23,11 @@ console.log("The value of the variable 'numberPi' of type " + typeof numberPi + 
 var message;
 message = "Hi, this is a message";
 console.log("The value of the variable 'message' of type " + typeof message + " is: '" + message + "'");
+// function 
+console.log("The type of the function 'printName()' is: " + typeof printName);
+function printName(name) {
+    console.log(name);
+}
 // dialog window and read input
 var myVar = prompt("What is your name?");
 console.info("info: My name is " + myVar);
@@ -36,5 +41,3 @@ if (isCorrect) {
 else {
     alert("Confirmed, " + myVar + " is NOT your name");
 }
-var und;
-//und = "12";

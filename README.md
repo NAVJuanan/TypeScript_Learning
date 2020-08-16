@@ -61,6 +61,10 @@ Programs:
 
 	- string interpolation -> console.log(`The value of the variable "message" of type ${typeof message} is: ${message}`);
 
+	- function -> declares a function
+		https://devdocs.io/typescript/handbook/functions
+		https://www.tutorialsteacher.com/typescript/typescript-function
+
 	- typeof() -> shows the data type of a value or variable (boolean, number, string, object, function) 
 		https://devdocs.io/javascript/operators/typeof
 
@@ -117,6 +121,7 @@ Programs:
 	
 	https://www.w3schools.com/js/js_operators.asp
 	https://www.w3schools.com/jsref/jsref_operators.asp
+	https://www.w3schools.com/js/js_comparisons.asp
 
 
 

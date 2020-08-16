@@ -34,6 +34,14 @@ message = "Hi, this is a message";
 console.log(`The value of the variable 'message' of type ${typeof message} is: '${message}'`);
 
 
+// function 
+console.log(`The type of the function 'printName()' is: ${typeof printName}`);
+
+function printName(name: string) {
+    console.log(name);
+}
+
+
 // dialog window and read input
 let myVar: string | null = prompt("What is your name?");
 console.info(`info: My name is ${myVar}`);
@@ -48,7 +56,3 @@ if (isCorrect) {
 } else {
     alert(`Confirmed, ${myVar} is NOT your name`);
 }
-
-
-let und: undefined;
-//und = "12";
