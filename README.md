@@ -24,6 +24,8 @@ Programs:
 
 		- Install Angular: npm install -g @angular/cli
 		- Check Angular version: ng --version
+		- Create new Angular app: ng new myapp
+		- Build & serve Angular app: ng serve
 		https://angular.io/cli
 
 	- <script> tag in an html file for JavaScript code or file availability
