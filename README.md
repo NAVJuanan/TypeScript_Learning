@@ -9,6 +9,7 @@ Documentation:
 	https://www.typescriptlang.org/docs
 	https://www.tutorialsteacher.com/typescript
 	https://devdocs.io/typescript/
+	https://angular.io/docs
 
 
 Programs:
@@ -20,6 +21,10 @@ Programs:
 		- Install TypeScript: npm install -g typescript
 		- Check TypeScript version: tsc --version
 		https://www.tutorialsteacher.com/typescript/typescript-environment-setup
+
+		- Install Angular: npm install -g @angular/cli
+		- Check Angular version: ng --version
+		https://angular.io/cli
 
 	- <script> tag in an html file for JavaScript code or file availability
 		<script type="text/javascript" src="index.js"></script>
