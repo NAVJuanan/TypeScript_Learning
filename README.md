@@ -27,6 +27,7 @@ Programs:
 		- Create new Angular app: ng new myapp
 		- Build & serve Angular app: ng serve
 		- Create new Angular component: ng g c mycomponent
+		- Create new Angular service: ng g service myservice
 		https://angular.io/cli
 
 	- <script> tag in an html file for JavaScript code or file availability
